@@ -60,7 +60,7 @@ function UserLogin() {
               }}
             >
               Log In&nbsp;
-            <IconButton ><a href="https://github.com/Nishanth4696/MobileEcommerce-Client/blob/master/README.md" target="_blank"><VpnKeyIcon /></a></IconButton>
+            <IconButton ><a href="https://github.com/Nishanth4696/paytabs-ecommerce/blob/master/README.md" target="_blank"><VpnKeyIcon /></a></IconButton>
             </Typography>
           </div>
           <div style={{ display: "flex", flexDirection: "column" }}>
